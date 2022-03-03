@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Nutricao_Depressao/static/css/main.44eb0921.chunk.css",
+    "main.js": "/Nutricao_Depressao/static/js/main.1ba473f8.chunk.js",
+    "main.js.map": "/Nutricao_Depressao/static/js/main.1ba473f8.chunk.js.map",
+    "runtime-main.js": "/Nutricao_Depressao/static/js/runtime-main.0264bc6f.js",
+    "runtime-main.js.map": "/Nutricao_Depressao/static/js/runtime-main.0264bc6f.js.map",
+    "static/js/2.198be0cf.chunk.js": "/Nutricao_Depressao/static/js/2.198be0cf.chunk.js",
+    "static/js/2.198be0cf.chunk.js.map": "/Nutricao_Depressao/static/js/2.198be0cf.chunk.js.map",
+    "index.html": "/Nutricao_Depressao/index.html",
+    "static/css/main.44eb0921.chunk.css.map": "/Nutricao_Depressao/static/css/main.44eb0921.chunk.css.map",
+    "static/js/2.198be0cf.chunk.js.LICENSE.txt": "/Nutricao_Depressao/static/js/2.198be0cf.chunk.js.LICENSE.txt",
+    "static/media/product.scss": "/Nutricao_Depressao/static/media/waveGreen.1c9ec8c2.svg",
+    "static/media/introVideo.8a4089e2.mp4": "/Nutricao_Depressao/static/media/introVideo.8a4089e2.mp4",
+    "static/media/intro.scss": "/Nutricao_Depressao/static/media/orangeWave.698058b9.svg",
+    "static/media/placeholder.4cbd11c1.png": "/Nutricao_Depressao/static/media/placeholder.4cbd11c1.png",
+    "static/media/product.94c49993.jpeg": "/Nutricao_Depressao/static/media/product.94c49993.jpeg",
+    "static/media/works.scss": "/Nutricao_Depressao/static/media/waveGreenBig.6371e202.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0264bc6f.js",
+    "static/js/2.198be0cf.chunk.js",
+    "static/css/main.44eb0921.chunk.css",
+    "static/js/main.1ba473f8.chunk.js"
+  ]
+}
